@@ -30,4 +30,4 @@ const getSum = () => {
     ansParagraph.textContent = Total Price: Rs ${totalPrice};
 };
 
-getSumBtn.addEventListener("click", getSum);
+getSumBtn.addEventListener("click", getSum);
